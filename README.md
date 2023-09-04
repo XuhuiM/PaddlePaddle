@@ -1,2 +1,1 @@
-# PaddlePaddle
-PaddlePaddle For Scientific Machine Learning
+# PaddlePaddle For Scientific Machine Learning
